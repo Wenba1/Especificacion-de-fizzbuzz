@@ -8,6 +8,10 @@ function generarFizzBuzz(numero){
     else if(numero==5){
         return "Buzz"
     }
+    else if(numero%5==0)
+    {
+        return "Buzz"
+    }
     return numero+"";
 }
 
