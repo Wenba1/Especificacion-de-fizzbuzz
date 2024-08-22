@@ -11,4 +11,5 @@ Pruebas:
 -Generar fizz para multiplos de 3
 -Generar fizz para el 5
 -Gnerar fizz para multiplos de 5
--Imprimir la secuneica (1, 2, ..., fizz,)
+-Imprimir la secuneica (1, 2, ..., fizz,4 ..)
+diseño:
